@@ -1,4 +1,4 @@
-export const SERVICESNOTION={
+export const SERVICES_NOTION={
   1:"Pasaportes",
   2:"DNI",
   3:"Autorización de viaje",
@@ -9,7 +9,7 @@ export const SERVICESNOTION={
   8:"Legalización de firma",
 }
 
-export const PROCESSORS=["Facebook","Mercedes Chata","Tia Elena","Recomendación","Consulado","Jose Empanadas"]
+export const PROCESSORS=["Facebook","Mercedes Chata","Tia Elena","Recomendación","Consulado","Jose Empanadas","Abogado Peruano"]
 
 
 export const SERVICES={
